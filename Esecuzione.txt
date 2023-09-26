@@ -1,0 +1,1 @@
+g++ -I"G:\Users\ricky\Desktop\Università\P-2-Basi di dati\2023\Il_mio_progetto\dependencies\include" -L"G:\Users\ricky\Desktop\Università\P-2-Basi_di_dati\2023\Il_mio_progetto\dependencies\lib" Codice.cpp -lpq -o codice
